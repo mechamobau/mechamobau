@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 👨🏻‍💻 My name is Lucas Viana, but you can call Baú!
+- 💬 Ask me about React.js, GraphQL, TypeScript or anything else [on my Twitter](https://twitter.com/mechamobau)!
+- 😄 Pronouns: he/him
 <!--
 **mechamobau/mechamobau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
