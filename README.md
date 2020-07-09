@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨🏻‍💻 My name is Lucas Viana, but you can call Baú!
+- 👨🏻‍💻 My name is Lucas Viana, but you can call me Baú!
 - 💬 Ask me about React.js, GraphQL, TypeScript or anything else [on my Twitter](https://twitter.com/mechamobau)!
 - 😄 Pronouns: he/him
 <!--
